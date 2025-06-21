@@ -1,0 +1,2 @@
+# ComfyUI_Timu_FunASR
+基于FunASR的语音识别的comfyui节点项目
