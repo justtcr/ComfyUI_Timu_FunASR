@@ -2,7 +2,7 @@
 
 ***
 
-语音识别技术基于阿里通义实验室的[FunASR](https://github.com/modelscope/FunASR)语音识别项目，ComfyUI节点代码基于[avenstack
+语音识别技术基于阿里通义实验室的[FunASR](https://github.com/modelscope/FunASR)，ComfyUI节点代码基于[avenstack
 \ComfyUI-AV-FunASR](https://github.com/avenstack/ComfyUI-AV-FunASR)的节点进行了优化。让comfyui也能实现快速语音识别，生成流畅自然的SRT字幕。
 
 ## 功能特色
