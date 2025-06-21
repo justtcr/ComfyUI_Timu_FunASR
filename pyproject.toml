@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-AV-FunASR"
+description = "FunASR wrapper for ComfyUI"
+version = "1.0.2"
+license = {file = "LICENSE"}
+dependencies = ["modelscope", "sortedcontainers", "simplejson", "datasets==2.16.0", "Levenshtein", "soundfile"]
+
+[project.urls]
+Repository = "https://github.com/avenstack/ComfyUI-AV-FunASR"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "av"
+DisplayName = "ComfyUI-AV-FunASR"
+Icon = ""
